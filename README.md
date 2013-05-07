@@ -1,4 +1,4 @@
 JS-Sandbox
 ==========
 
-Experimental JavaScript playpen
+This is an experimental JavaScript playpen where I can play around with various JS libraries.
